@@ -2,17 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop2507&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop2507" /> </p> 
 
 ### :woman_technologist: About Me 
-- 👩🏻‍💻 Pronouns: She/Her
-  
-- 🔭 I’m currently working on **up-Skilling myself**
-
-- 🌱 I’m currently learning **front-end development**
-
+- 👩🏻‍💻 Pronouns: **She/Her**  
+- 🔭 I’m currently working on **frontend and web technology**
 - 💬 Ask me about **html, css, js, react, **
-
 - 📫 How to reach me: Check social links below.
-
-- ⚡ Fun fact **I think I'm funny.**
+- ⚡"The only way to do great work is to love what you do." - **Steve Jobs**
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
